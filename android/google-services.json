@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "751565568307",
+    "project_id": "trzombie-b69ab",
+    "storage_bucket": "trzombie-b69ab.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:751565568307:android:a0a4f9d788b610d0186646",
+        "android_client_info": {
+          "package_name": "the.resident.zombie"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "751565568307-08kd1uqstibbeqi3rjmnrp3c5pk6de2o.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDEbHGRB5_X9Ixwdn9VG3Wu32dvFod-MTk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "751565568307-08kd1uqstibbeqi3rjmnrp3c5pk6de2o.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
